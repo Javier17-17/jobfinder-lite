@@ -97,10 +97,7 @@ export default function Home() {
         </div>
 
         {/* Texto inferior */}
-        <p className="mt-6 text-white/90 text-sm">
-          Consejo: en la feria, abre esta página y en 10 segundos ya saben quién
-          eres.
-        </p>
+        
       </div>
     </section>
   );
